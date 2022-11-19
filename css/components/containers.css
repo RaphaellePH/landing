@@ -1,0 +1,29 @@
+@media (max-width: 900px){
+  .container {
+    width: 500px
+  }
+}
+
+@media (max-width: 500px) {
+  .container {
+    width: 300px
+  }
+}
+
+.container {
+  margin: auto 100px;
+}
+
+.container h1 {
+  color: white;
+}
+
+.container p {
+  color: white;
+  font-size: 20px;
+  opacity: .7;
+}
+
+.text-center {
+  text-align: center;
+}
